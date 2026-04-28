@@ -1,0 +1,12 @@
+{
+  "name": "MyCoffee",
+  "description": "A premium caffeine consumption controller and daily wellness monitoring platform designed to help users track, manage, and optimize their daily caffeine intake.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Caffeine Tracking",
+    "Wellness Analytics",
+    "Personalized Health Assessment",
+    "Smart Alerts",
+    "Habit Building"
+  ]
+}
